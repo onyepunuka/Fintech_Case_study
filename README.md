@@ -16,3 +16,9 @@ This company has brought more awareness and trust in the growing fintech industr
 The company is advised to offer other financial products that is suited to its current targeted demographic. They should offer a RRSP account and other investment and saving accounts much like Wealthsimple. This will help them retain their clients for longer terms by providing their millennial with the mean to carry out their investment plans. The mobile app will service as the appropriate technology for this product, KOHO can leverage its current technology to provide this product with adjustment made to its app features. The mobile app is the preference of the targeted market.
 #
 ## Reference 
+https://www.bnnbloomberg.ca/fintech-company-koho-financial-raises-210m-to-expand-banking-alternative-1.1716739#:~:text=Koho%2C%20which%20says%20it%20has,count%20to%20400%20from%20250.
+https://hardbacon.ca/en/investing/canadas-top-50-fintech-companies-and-startups-for-2021/
+https://www.ivey.uwo.ca/scotiabank-digital-banking-lab/canada-fintech/banking-personal-finance/koho/#:~:text=(%E2%80%9CKOHO%E2%80%9D)%20is%20a,financial%20understanding%20and%20improved%20functionality.
+https://www.similarweb.com/website/koho.ca/#interests
+https://hypertec.com/blog/online-banking-innovation-introducing-ai/
+https://www.crunchbase.com/organization/koho-financial/company_financials
